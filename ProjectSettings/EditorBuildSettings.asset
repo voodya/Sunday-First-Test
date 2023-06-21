@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: bc885a3224ec26a4c82eea4f6ec1e201
+  - enabled: 1
+    path: Assets/Scenes/Galery_custom_grid.unity
+    guid: d1613027e1c41164cbcd4ac7b98ddbd7
+  - enabled: 1
+    path: Assets/Scenes/FakeLoadScene.unity
+    guid: a3c25a162a5f6b344a7d36ef4f5b2826
+  - enabled: 1
+    path: Assets/Scenes/Viewer.unity
+    guid: a02a0573855f65742b9a2b33373439be
+  - enabled: 1
+    path: Assets/Scenes/Galery_native_grid.unity
+    guid: 430d149d7d25af64ab0cd250b51ee17e
+  m_configObjects: {}
